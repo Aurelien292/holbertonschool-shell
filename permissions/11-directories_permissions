@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r a+1
+chmod -r a+x

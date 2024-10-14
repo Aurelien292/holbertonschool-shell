@@ -1,0 +1,2 @@
+#!/bin/bash
+groupmod --new-name hello school

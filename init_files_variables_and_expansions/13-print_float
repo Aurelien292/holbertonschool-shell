@@ -1,2 +1,2 @@
 #!/bin/bash
-env NUM=printf "%.2f\n"
+printf "%.2f\n" '$NUM'
